@@ -1,0 +1,6 @@
+C:\Users\kevin\Desktop\Proyecto de Facturación\ArEc Aplicativo\Entity\bin\Debug\Entity.dll
+C:\Users\kevin\Desktop\Proyecto de Facturación\ArEc Aplicativo\Entity\bin\Debug\Entity.pdb
+C:\Users\kevin\Desktop\Proyecto de Facturación\ArEc Aplicativo\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Proyecto de Facturación\ArEc Aplicativo\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Proyecto de Facturación\ArEc Aplicativo\Entity\obj\Debug\Entity.dll
+C:\Users\kevin\Desktop\Proyecto de Facturación\ArEc Aplicativo\Entity\obj\Debug\Entity.pdb
